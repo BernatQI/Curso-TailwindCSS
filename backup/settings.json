@@ -1,0 +1,11 @@
+{
+  "cSpell.words": [
+    "tailwindcss"
+  ],
+  "cSpell.enableFiletypes": [
+    "!html",
+    "!javascript",
+    "!json"
+  ],
+  "css.lint.unknownAtRules": "ignore"
+}
